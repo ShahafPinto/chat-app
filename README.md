@@ -4,6 +4,8 @@ This app is a frontend implementation for a chat application, using mock data.
 
 It's created with Vite, using React, TypeScript and Sass.
 
+Link to my server-repo: https://github.com/ShahafPinto/server-chat-app 
+
 ## Instructions
 1. Fork this repository to your GitHub.
 2. Clone the repository from your fork.

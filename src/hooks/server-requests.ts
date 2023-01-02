@@ -20,7 +20,6 @@ export async function getMessages() {
   // });
 
   const mockMessagesWithNames = await fetch('http://localhost:3001/messages').then(res => res.json());
-  // console.log(mockMessagesWithNames)
   return mockMessagesWithNames;
 }
 
